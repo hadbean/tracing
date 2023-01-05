@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/starblaze-ec/tracing/logger"
+	"github.com/hadbean/tracing/logger"
 )
 
 func init() {

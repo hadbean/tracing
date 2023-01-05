@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/starblaze-ec/tracing/logger"
+	"github.com/hadbean/tracing/logger"
 	"go.uber.org/zap"
 )
 
